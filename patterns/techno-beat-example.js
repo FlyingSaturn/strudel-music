@@ -18,9 +18,10 @@ const bass = note("c2 c2 eb2 g2")
   .lpq(5);
 
 // Stack all patterns and play
+// cpm = cycles per minute (128 BPM / 4 beats = 32 cycles per minute)
 stack(
   kick,
   hihat,
   snare,
   bass
-).cpm(128/4);
+).cpm(32);
