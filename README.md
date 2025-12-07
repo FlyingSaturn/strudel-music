@@ -21,10 +21,7 @@ Each `.js` file contains Strudel code that can be:
 
 ## Contributing
 
-This is a personal collection, but feel free to:
-- Use any patterns as inspiration for your own work
-- Suggest improvements via issues
-- Share your own Strudel creations
+This is a personal collection, but feel free to use any patterns as inspiration for your own work.
 
 ## Resources
 
